@@ -1,6 +1,6 @@
 # Joestar Family Genealogical Tree
 
-This project implements the genealogical tree of the famous Joestar family from JoJo's Bizarre Adventure using the power of declarative logic in Prolog.
+This project implements the genealogical tree of the famous Joestar family from [JoJo's Bizarre Adventure](https://jjba.fandom.com/pt-br/wiki/JoJo%27s_Bizarre_Adventure), using the power of declarative logic in Prolog.
 
 ### Features:
 
