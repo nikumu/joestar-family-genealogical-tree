@@ -16,13 +16,13 @@ This project implements the genealogical tree of the famous Joestar family from 
 1. Who are Joseph Joestar's children?
 
 ```prolog
-parent(joseph_joestar, Child).
+?- parent(joseph_joestar, Child).
 ```
 
 2. Is Jolyne Cujoh a descendant of Jonathan Joestar?
 
 ```prolog
-parent(jonathan_joestar, X), parent(X, Y), parent(Y, Z), parent(Z, jolyne_cujoh).
+?- parent(jonathan_joestar, X), parent(X, Y), parent(Y, Z), parent(Z, jolyne_cujoh).
 ```
 
 3. To find all children of George Joestar I (george_joestar_i):
