@@ -7,7 +7,7 @@ parent(george_joestar_i, dio_brando).
 parent(jonathan_joestar, george_joestar_ii).
 parent(erina_pendleton, george_joestar_ii).
 parent(george_joestar_ii, joseph_joestar).
-parent(lisa_lisa, joseph_joestar).
+parent(elizabeth_joestar, joseph_joestar).
 parent(joseph_joestar, holly_kujo).
 parent(suzi_q, holly_kujo).
 parent(joseph_joestar, josuke_higashikata).
@@ -32,6 +32,7 @@ male(jotaro_kujo).
 male(josuke_higashikata).
 female(mary_joestar).
 female(suzi_q).
+female(elizabeth_joestar).
 female(holly_kujo).
 female(tomoko_higashikata).
 female(jolyne_cujoh).
