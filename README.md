@@ -62,3 +62,5 @@ This project implements the genealogical tree of the famous Joestar family from 
 ```
 
 This project is perfect for learning Prolog while exploring the JoJo universe!
+
+![Joestar Birthmark](https://github.com/nikumu/joestar-family-genealogical-tree/blob/main/Joestar_Birthmark.svg.png)
