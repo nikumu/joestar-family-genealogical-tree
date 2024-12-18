@@ -51,8 +51,7 @@ parent(jonathan_joestar, X), parent(X, Y), parent(Y, Z), parent(Z, jolyne_cujoh)
 
 7. To list all females in the genealogical tree:
 
-```
-prolog
+```prolog
 ?- female(Person).
 ```
 
