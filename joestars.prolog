@@ -11,6 +11,7 @@ parent(lisa_lisa, joseph_joestar).
 parent(joseph_joestar, holly_kujo).
 parent(suzi_q, holly_kujo).
 parent(joseph_joestar, josuke_higashikata).
+parent(joseph_joestar, shizuka_joestar).
 parent(sadao_kujo, jotaro_kujo).
 parent(holly_kujo, jotaro_kujo).
 parent(jotaro_kujo, jolyne_cujoh).
@@ -32,4 +33,5 @@ female(mary_joestar).
 female(suzi_q).
 female(holly_kujo).
 female(jolyne_cujoh).
+female(shizuka_joestar).
 
