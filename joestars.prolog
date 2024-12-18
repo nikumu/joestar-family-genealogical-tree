@@ -28,9 +28,8 @@ male(george_joestar_ii).
 male(joseph_joestar).
 male(jotaro_kujo).
 male(josuke_higashikata).
-male(mary_joestar).
-male(lisa_lisa).
-male(suzi_q).
+female(mary_joestar).
+female(suzi_q).
 female(holly_kujo).
 female(jolyne_cujoh).
 
